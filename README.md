@@ -30,6 +30,7 @@
 
 ### ⚙️ Backend
 - Node.js
+- Nest JS
 - FastAPI
 - Python
 - Django REST Framework
