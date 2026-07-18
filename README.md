@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nirmal Kushwah</h1>
-<h3 align="center">Full Stack Software Engineer | React • Next.js • Node.js • FastAPI</h3>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1feebe95-f1b8-4ac1-bee2-09429f097efb" /><h1 align="center">Hi 👋, I'm Nirmal Kushwah</h1>
+<h3 align="center">Full Stack Software Engineer | React • Next.js • Node.js • FastAPI • Golang</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nirmal-kushwah-9b65a0201/" target="_blank">LinkedIn</a> •
@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Software Engineer with **2+ years of experience**
+- 💻 Full Stack Software Engineer with **3 years of experience**
 - ⚡ Building **scalable, production-grade web applications**
-- 🌐 Expertise in **React, Next.js, Node.js, FastAPI**
+- 🌐 Expertise in **React, Next.js, Node.js, Python, Django, FastAPI**
 - ☁️ Hands-on with **AWS, Firebase, CI/CD pipelines**
 - 🔐 Strong focus on **authentication, APIs, and security**
 - 📈 Passionate about **performance optimization & SEO**
@@ -27,6 +27,8 @@
 - Next.js
 - Redux
 - HTML5, CSS3, JavaScript (ES6+)
+- Tailwind CSS
+- Bootstrap
 
 ### ⚙️ Backend
 - Node.js
@@ -34,6 +36,7 @@
 - FastAPI
 - Python
 - Django REST Framework
+- Golang
 
 ### 🔗 APIs & Integration
 - REST APIs
@@ -48,7 +51,7 @@
 - MySQL
 
 ### ☁️ Cloud & DevOps
-- AWS (S3, Cognito)
+- AWS (S3, Cognito, SES)
 - Firebase
 - Docker
 - CI/CD Pipelines
@@ -71,3 +74,4 @@
 
 - 📧 Email: nirmalkushwah2010@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/nirmal-kushwah-9b65a0201/
+- 📄 Resume: https://drive.google.com/file/d/1dN3i8XXWu9IWzucRNSbvh1rXul9jtdzk/view?usp=sharing
