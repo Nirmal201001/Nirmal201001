@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1feebe95-f1b8-4ac1-bee2-09429f097efb" /><h1 align="center">Hi 👋, I'm Nirmal Kushwah</h1>
+<h1 align="center">Hi 👋, I'm Nirmal Kushwah</h1>
 <h3 align="center">Full Stack Software Engineer | React • Next.js • Node.js • FastAPI • Golang</h3>
 
 <p align="center">
