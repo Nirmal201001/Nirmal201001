@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nirmal-kushwah-9b65a0201/" target="_blank">LinkedIn</a> •
   <a href="mailto:nirmalkushwah2010@gmail.com">Email</a>
+  <a href="https://nirmal-kushwah.vercel.app/">Portfolio</a>
 </p>
 
 ---
